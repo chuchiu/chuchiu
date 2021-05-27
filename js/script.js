@@ -203,7 +203,7 @@
 	if ($('.team-carousel').length) {
 		$('.team-carousel').owlCarousel({
 			loop:true,
-			margin:30,
+			margin:300,
 			nav:true,
 			autoplay: false,
 			navText: [ '<span class="fa fa-angle-left"></span>', '<span class="fa fa-angle-right"></span>' ],
